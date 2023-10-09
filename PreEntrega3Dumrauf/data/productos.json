@@ -1,0 +1,26 @@
+[
+    {
+        "img": "OPUS-QUAD_prm_frontangle_221223.png",
+        "name": "OPUS-QUAD",
+        "description": "Sistema de DJ profesional para perfomance all in one de 4 canales",
+        "price": "4.200.000"
+    },
+    {
+        "img": "XDJ-RX3_prm_frontangle_210830_pc.png",
+        "name": "XDJ-RX3",
+        "description": "Sistema de DJ para performances all in one de 2 canales",
+        "price": "1.500.000"
+    },
+    {
+        "img": "pc-cgi_frontangle.png",
+        "name": "DDJ-FLX10",
+        "description": "Controlador DJ para performances de 4 canales",
+        "price": "1.300.000"
+    },
+    {
+        "img": "ddj-rev7_prm_frontangle_1792x1316_pc.png",
+        "name": "DDJ-REV7",
+        "description": "Controlador DJ profesional de 2 canales de estilo scratch",
+        "price": "1.200.000"
+    }
+]
